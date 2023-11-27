@@ -57,4 +57,13 @@ Run following commands to start Django server:
 - Install Docker 'sudo apt install docker.io'
 - Create docker-deploy.sh file that will automatically create docker image and run container
   ![image](https://github.com/ZuraizAhmedShehzad/CircleW_AdvanceITSkillProgram-Assignment-T3-Class5/assets/42076770/f444c899-0f84-4bb8-8612-e6e5e7527067)
+- run docker-deploy.sh by using command 'bash docker-deploy.sh'
+</br>
+
+- docker container deployed successfully
+
+  ![image](https://github.com/ZuraizAhmedShehzad/CircleW_AdvanceITSkillProgram-Assignment-T3-Class5/assets/42076770/7fb88621-4351-46b0-9671-0362ba72f96b)
+
+  ![image](https://github.com/ZuraizAhmedShehzad/CircleW_AdvanceITSkillProgram-Assignment-T3-Class5/assets/42076770/c8dc1eca-504a-4d6c-baf8-42ce1935095c)
+
  
